@@ -1,0 +1,11 @@
+Auctions 0.0.1  2010-10-10
+
+Daily updates of auction data from dozens of ad formats.
+
+xml output
+
+Admins can delete or update.
+
+Users can only add new dates.
+
+Next add cc tax info.
